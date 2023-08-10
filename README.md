@@ -1,16 +1,17 @@
 ### Hi there 👋
+ I'm Kristijan, a passionate full stack developer hailing from Macedonia 🇲🇰. With a solid foundation in ASP.NET and Spring Boot web apps, I bring to the table a passion in crafting robust and scalable web applications.
 
-<!--
-**KristijanJankuloski/KristijanJankuloski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 My journey has taken me through the realms of JavaScript, where I've learned the art of building captivating user interfaces using Angular, React and Vue. Whether it's crafting user experiences or architecting frontend systems, I thrive on turning ideas into reality.
 
-Here are some ideas to get you started:
+💡 On the backend, I'm well-versed in the realm of .NET APIs, ensuring data flows seamlessly and services communicate flawlessly. My toolkit also includes, Java with SpringBoot, Node.js with Express and Python with FastAPI, allowing me to traverse various ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main tech stack 🌐
+- C#
+- ASP.NET api
+- Angular typescript
+- Docker
+
+## 📚 Let's connect and collaborate!
+A firm believer in continuous learning, I'm always exploring new horizons to sharpen my skills and embrace emerging technologies. Feel free to explore my repositories, drop a message, or reach out for a tech chat.
+
+Happy coding! 🖥️👨‍💻🌟
