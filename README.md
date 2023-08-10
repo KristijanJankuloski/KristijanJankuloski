@@ -6,10 +6,10 @@
 💡 On the backend, I'm well-versed in the realm of .NET APIs, ensuring data flows seamlessly and services communicate flawlessly. My toolkit also includes, Java with SpringBoot, Node.js with Express and Python with FastAPI, allowing me to traverse various ecosystems.
 
 ### Main tech stack 🌐
-- C#
-- ASP.NET api
-- Angular typescript
-- Docker
+- C# ![cs_image](cs_sm.png)
+- ASP.NET api ![aspnet_image](dotnet_sm.png)
+- Angular typescript ![angular_image](angular_sm.png)
+- Docker ![docker_image](docker_sm.png)
 
 ### 📚 Let's connect and collaborate!
 A firm believer in continuous learning, I'm always exploring new horizons to sharpen my skills and embrace emerging technologies. Feel free to explore my repositories, drop a message, or reach out for a tech chat.
