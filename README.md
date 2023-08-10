@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
  I'm Kristijan, a passionate full stack developer hailing from Macedonia 🇲🇰. With a solid foundation in ASP.NET and Spring Boot web apps, I bring to the table a passion in crafting robust and scalable web applications.
 
 🚀 My journey has taken me through the realms of JavaScript, where I've learned the art of building captivating user interfaces using Angular, React and Vue. Whether it's crafting user experiences or architecting frontend systems, I thrive on turning ideas into reality.
