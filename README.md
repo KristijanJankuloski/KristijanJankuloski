@@ -10,10 +10,6 @@
 - ASP.NET api
 - Angular typescript
 - Docker
+- Flutter
 
-![cs_image](cs_sm.png) ![aspnet_image](dotnet_sm.png) ![angular_image](angular_sm.png) ![docker_image](docker_sm.png)
-
-### 📚 Let's connect and collaborate!
-A firm believer in continuous learning, I'm always exploring new horizons to sharpen my skills and embrace emerging technologies. Feel free to explore my repositories, drop a message, or reach out for a tech chat.
-
-### Happy coding! 🖥️👨‍💻🌟
+![cs_image](cs_sm.png) ![aspnet_image](dotnet_sm.png) ![angular_image](angular_sm.png) ![docker_image](docker_sm.png) ![flutter_image](flutter_sm.png)
